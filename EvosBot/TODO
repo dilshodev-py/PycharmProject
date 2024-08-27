@@ -1,0 +1,43 @@
+
+
+
+EVOS BOT:
+    0) projectni bo'laklash
+    1) /start bosgan userlarni saqlash
+    2) buttons ni qurish
+
+
+state
+redis
+buttons manager
+fixtures
+form with state
+send photo options
+project structure
+db config
+
+
+sudo apt-get install redis
+pip install redis
+
+
+Get My Id
+
+webhook
+1000000 send message
+
+poll
+webhook
+
+
+
+
+ROUTER
+FICTURES - category , product
+web hook
+evos other tugatish
+
+
+
+
+

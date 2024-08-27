@@ -1,0 +1,29 @@
+[
+   {
+      "id": 1148477816,
+      "first_name": "\ud83d\udfe2//",
+      "last_name": "\u0410\u0431\u0441\u0430\u0438\u0442\u043e\u0432.\u0414.\u0423",
+      "phone_number": "+998993583234",
+      "language": "uz",
+      "description": "ajsbdfjladsbf",
+      "role": "user"
+   },
+   {
+      "id": 882090673,
+      "first_name": "\u0420\u0443\u0441\u0442\u0430\u043c\u0431\u0435\u043a \u0422\u043e\u0438\u0440\u043e\u0432 \uf8ff\ud83c\uddfa\ud83c\uddff",
+      "last_name": null,
+      "phone_number": null,
+      "language": "en",
+      "description": null,
+      "role": "user"
+   },
+   {
+      "id": 6635413428,
+      "first_name": "Muhammad Amin",
+      "last_name": "Haitov",
+      "phone_number": null,
+      "language": "en",
+      "description": null,
+      "role": "user"
+   }
+]

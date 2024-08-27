@@ -1,0 +1,178 @@
+for , while , else
+iterable
+item
+print
+if / elif / else
+str slice
+int
+float
+bool
+math
+break , continue
+type casting
+type hint
+data type
+variable value
+memory : stack , heap
+input()
+type()
+id()
+bin()
+range()
+is , ==
+** , + , // , / , % , *
+pow()
++= , *= , /= , //= , %=
+packing , unpacking
+== , != , > , < , <= , >=
+and , or , not
+PEP8
+snake_case
+
+
+""""""
+
+# for , while , else
+
+# for i in iterable:
+# logic [break , continue]
+# else:
+#     finally logic
+
+# for i in range(45 , 66, 2):
+#     print(i)
+
+
+"""
+iterable:
+    list [item , item]
+    str
+    tuple
+    set
+    range
+    dict
+
+"""
+
+"""
+print(1,2,3,4,5)
+
+"""
+# print(1,2,3,4,5 , sep=" ")
+
+
+"""
+# if cond:
+#     logic
+# elif cond:
+#     logic
+# else:
+#     logic
+
+"""
+
+"""
+str slice:
+    "Hello"[start:end:step]
+    "Hello"[::-1]
+"""
+
+"""
+int
+float
+bool
+math
+"""
+
+"""
+type casting:
+    variable = type(value)
+    name = int("90.8")
+
+"""
+# num = int(float("90.8"))
+# print(num)
+
+"""
+type hint:
+    variable: type = value
+    clean code
+"""
+
+"""
+variable value:
+    variable -> stack: type = value -> heap
+
+
+"""
+"""
+
+
+"""
+# input(">>>")
+
+print(type(10j))
+
+# Q = 100 + 130j
+# print(Q + 10j)
+# print(id(10))
+
+# print(bin(100))
+# print(hex(100))
+# oct()
+# print(int('64', 16))
+
+
+"""
+range(start , end , step)
+"""
+
+"""
+is -> id
+== -> value
+"""
+# print() -> built-function
+# input() -> built-function
+# pow() -> built-function
+
+# t = "A"
+# t += "B"
+# t += "C"
+# print(t)
+
+"""
+packing:
+    a = 1,2,3,4,5,6
+
+unpacking:
+    b,a = [1 , 2 , 3]
+
+"""
+# b,a = [1 , 2]
+# print(b)
+
+"""
+
+
+
+== , != , > , < , <= , >=
+and , or , not
+PEP8 -> clean code
+snake_case
+"""
+
+"""
+snake_case:
+    variable
+    function
+    folder
+    file
+
+"""
+
+
+
+
+
+
+
